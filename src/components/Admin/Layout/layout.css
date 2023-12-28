@@ -1,0 +1,63 @@
+.dashboard-sidebar {
+    height: 100%;
+    width: 250px;
+    position: fixed;
+    top: 70px;
+    left: 0;
+    background-color: #f3f2ee;
+    padding-top: 20px;
+
+}
+
+.dashboard-sidebar a {
+    padding: 15px 25px;
+    text-align: left;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 18px;
+    color: black;
+    display: block;
+}
+
+.dashboard-sidebar a:hover {
+    background-color: #dbdfe2;
+}
+
+.dashboard-user-image {
+    text-align: center;
+    padding: 20px 0;
+}
+
+.dashboard-user-image img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+
+.dashboard-content {
+    margin-left: 260px;
+    padding: 20px;
+}
+
+
+.dashboard-footer {
+    background-color: black;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+
+} 
+.form-inline{
+    margin: 270px;
+} 
+.btn-outline-success{
+    margin: 10px;
+}
+
+.custom-card {
+    width: 18rem;
+    
+}
